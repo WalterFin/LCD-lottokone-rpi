@@ -1,0 +1,3 @@
+Python-ohjelma 20X4 LCD-näytölle.
+Ohjelma arpoo seitsemän numeroa 1-40 väliltä ja tulostaa arpomansa numerot LCD-näytölle.
+Ohjelma tarvitsee I2C_LCD_driver.py ajurin toimiakseen.
